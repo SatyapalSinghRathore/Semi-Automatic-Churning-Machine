@@ -1,4 +1,4 @@
-# Semi-Automatic-Churning-Machine
+# Churning Machine
 # 1.Problem statement
     To make a Semi-Automated Churning Machine.
 # 2.Objectives of the project: 
